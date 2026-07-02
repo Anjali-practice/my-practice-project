@@ -1,0 +1,10 @@
+# Secret files
+*.env
+passwords.txt
+*.pem
+
+# System Files
+.DS_Store
+
+# Logs
+*.log
